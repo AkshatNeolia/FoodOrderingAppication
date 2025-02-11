@@ -48,10 +48,10 @@ FoodOrderingApplication is a Java-based food ordering system designed to provide
 ## GUI Screenshots
 | Feature | Screenshot |
 |---------|------------|
-| Home Page | ![Home Page](![image](https://github.com/user-attachments/assets/bdd6b4ae-2388-4f4b-a425-21bf3fbadc40)) |
-| Login Page | ![Login Page](![image](https://github.com/user-attachments/assets/b442ae64-a066-4108-9425-52803cc15956)) |
-| Management Page | ![Management Page](![image](https://github.com/user-attachments/assets/380ee5ef-80bd-4cbe-92d6-6d34ad714dc7)) |
-| Stock Management Page | ![Stock Management Page](![image](https://github.com/user-attachments/assets/bffb350a-9a3d-4a2d-8937-1935de397681)) |
+| Home Page | ![Home Page](![image](![Screenshot 2025-02-11 234255](https://github.com/user-attachments/assets/41213fea-6f5f-4680-8582-56ac6ac9f40f))) |
+| Login Page | ![Login Page](![image](![Screenshot 2025-02-11 234220](https://github.com/user-attachments/assets/a2ea6944-0154-4bff-bd0b-17c8ab5e705b))) |
+| Management Page | ![Management Page](![Screenshot 2025-02-11 234238](https://github.com/user-attachments/assets/2d641f78-944f-4d45-a821-1765464aabd5))) |
+| Stock Management Page | ![Stock Management Page](![Screenshot 2025-02-11 234303](https://github.com/user-attachments/assets/e3b3d3a5-ffae-4bff-8c2e-d2408a520281))) |
 
 ## Challenges Faced
 - Ensuring smooth integration between restaurants and payment gateways.
