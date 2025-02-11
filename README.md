@@ -29,7 +29,7 @@ FoodOrderingApplication is a Java-based food ordering system designed to provide
 ### Steps to Run the Application:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FoodOrderingApplication.git
+   git clone https://github.com/AkshatNeolia/FoodOrderingApplication.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -48,11 +48,10 @@ FoodOrderingApplication is a Java-based food ordering system designed to provide
 ## GUI Screenshots
 | Feature | Screenshot |
 |---------|------------|
-| Home Page | ![Home Page](images/home_page.png) |
-| Menu Selection | ![Menu Selection](images/menu_selection.png) |
-| Order Summary | ![Order Summary](images/order_summary.png) |
-| Payment Page | ![Payment Page](images/payment_page.png) |
-| Order Tracking | ![Order Tracking](images/order_tracking.png) |
+| Home Page | ![Home Page](![image](https://github.com/user-attachments/assets/bdd6b4ae-2388-4f4b-a425-21bf3fbadc40)) |
+| Login Page | ![Login Page](![image](https://github.com/user-attachments/assets/b442ae64-a066-4108-9425-52803cc15956)) |
+| Management Page | ![Management Page](![image](https://github.com/user-attachments/assets/380ee5ef-80bd-4cbe-92d6-6d34ad714dc7)) |
+| Stock Management Page | ![Stock Management Page](![image](https://github.com/user-attachments/assets/bffb350a-9a3d-4a2d-8937-1935de397681)) |
 
 ## Challenges Faced
 - Ensuring smooth integration between restaurants and payment gateways.
@@ -62,12 +61,3 @@ FoodOrderingApplication is a Java-based food ordering system designed to provide
 
 ## Conclusion
 FoodOrderingApplication is a powerful tool that streamlines the food ordering process, benefiting both customers and restaurant owners. With its intuitive design and secure transaction system, this project aims to revolutionize the food industry by enhancing convenience and efficiency.
-
-## Contributors
-- **Your Name** (Project Lead)
-- **Akshat Neolia**
-- **Priyanshu Kumar**
-- **Tarang Bhargava**
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
